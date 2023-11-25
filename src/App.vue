@@ -10,4 +10,8 @@ onHide(() => {
   console.log("App Hide");
 });
 </script>
-<style></style>
+<style>
+uni-page-head .uni-page-head {
+  background-color: #f5f6f7;
+}
+</style>
